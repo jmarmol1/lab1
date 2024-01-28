@@ -58,3 +58,4 @@ Z:\Desktop\College\Winter2024\DevOps\comp367Marmolejo-lab1\DemoWebApp\DemoWebApp
 \\Mac\Home\Desktop\College\Winter2024\DevOps\comp367Marmolejo-lab1\DemoWebApp\DemoWebApp\obj\Debug\net8.0\DemoWebApp.pdb
 \\Mac\Home\Desktop\College\Winter2024\DevOps\comp367Marmolejo-lab1\DemoWebApp\DemoWebApp\obj\Debug\net8.0\DemoWebApp.genruntimeconfig.cache
 \\Mac\Home\Desktop\College\Winter2024\DevOps\comp367Marmolejo-lab1\DemoWebApp\DemoWebApp\obj\Debug\net8.0\ref\DemoWebApp.dll
+\\Mac\Home\Desktop\College\Winter2024\DevOps\comp367Marmolejo-lab1\DemoWebApp\DemoWebApp\obj\Debug\net8.0\DemoWebApp.sourcelink.json
